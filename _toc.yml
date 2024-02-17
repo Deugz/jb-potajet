@@ -1,0 +1,22 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: 🥕 Le Pota-Jet
+    chapters:  
+    - file: Jardin/Pota-jet
+    - file: Jardin/Organisation/Organisation
+    - file: Jardin/Taches/Taches_Main
+      sections:
+      - file: Jardin/Taches/Semis/Semis
+      - file: Jardin/Taches/Desherbage/Desherbage
+    - file: Jardin/Journal/Journal
+      sections:
+      - file: Jardin/Journal/Pot-2024
+
+
+    
+
+
